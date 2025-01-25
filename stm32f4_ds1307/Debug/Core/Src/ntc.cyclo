@@ -1,0 +1,2 @@
+../Core/Src/ntc.c:7:7:ntc_convertToC	1
+../Core/Src/ntc.c:20:7:ntc_convertToF	1
